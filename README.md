@@ -1,12 +1,10 @@
-# T81 558:Applications of Deep Neural Networks
-[Washington University in St. Louis](http://www.wustl.edu)
+# BAA3284: Capstone Project 
+Applications of Deep Neural Networks
+[Sunway University](https://university.sunway.edu.my/)
 
-Instructor: [Jeff Heaton](https://sites.wustl.edu/jeffheaton/)
+Instructor: [Dr Tang Tiong Yew](https://university.sunway.edu.my/profiles/subs/Dr-Tang-Tiong-Yew)
 
-**The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/jeffheaton).
-
-* Section 1. Fall 2022, Monday, 2:30 PM, Location: Seigle / L003 
-* Section 2. Fall 2022, Online
+**The content of this course changes as technology evolves**, to keep up to date with changes [follow me on GitHub](https://github.com/robotictang).
 
 # Course Description
 
