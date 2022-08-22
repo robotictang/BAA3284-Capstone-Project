@@ -34,9 +34,6 @@ If you would like to cite the material from this course/book, please use the fol
 2. Determine when a deep neural network would be a good choice for a particular problem.
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
-# Syllabus
-This syllabus presents the expected class schedule, due dates, and reading assignments.  [Download current syllabus.](https://data.heatonresearch.com/wustl/jheaton-t81-558-spring-2022-syllabus.pdf)
-
 Module|Content
 ---|---
 [Module 1](t81_558_class_01_1_overview.ipynb)<br>**Meet on 08/29/2022** | **Module 1: Python Preliminaries**<ul><li>Part 1.1: Course Overview<li>Part 1.2: Introduction to Python<li>Part 1.3: Python Lists, Dictionaries, Sets & JSON<li>Part 1.4: File Handling<li>Part 1.5: Functions, Lambdas, and Map/ReducePython Preliminaries<li>**We will meet on campus this week! (first meeting)**</ul>
