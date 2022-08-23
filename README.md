@@ -35,15 +35,18 @@ If you would like to cite the material from this course/book, please use the fol
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
 # Fundamentals of Deep learning
+
 [Part 1](https://www.youtube.com/watch?v=aircAruvnKk)
 [Part 2](https://www.youtube.com/watch?v=IHZwWFHWa-w)
 [Part 3](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
 [Part 4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
 
-Previous LSTM Approaches
+# Previous LSTM Approaches
+
 [LSTM](https://www.youtube.com/watch?v=QciIcRxJvsM)
 
-State-of-the-art Transformers Approaches
+# State-of-the-art Transformers Approaches
+
 [Part 1](https://www.youtube.com/watch?v=TQQlZhbC5ps)
 [Part 2](https://www.youtube.com/watch?v=xI0HHN5XKDo)
 [Part 3](https://www.youtube.com/watch?v=BGKumht1qLA)
