@@ -1,5 +1,5 @@
 # BAA3284: Capstone Project 
-Pythond and Applications of Deep Neural Networks
+Python and Applications of Deep Neural Networks
 
 [Sunway University](https://university.sunway.edu.my/)
 
