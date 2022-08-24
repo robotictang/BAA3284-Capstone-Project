@@ -34,6 +34,8 @@ If you would like to cite the material from this course/book, please use the fol
 2. Determine when a deep neural network would be a good choice for a particular problem.
 3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
 
+# Videos
+
 **Fundamentals of Deep learning**
 
 [Part 1](https://www.youtube.com/watch?v=aircAruvnKk)
