@@ -78,6 +78,9 @@ Module|Content
 
 [Part 3](https://www.youtube.com/watch?v=BGKumht1qLA)
 
-**Google Colab VS AWS SageMaker Studio Lab**
+**CPU VS GPU VS TPU (Training Speed Test)**
+[Video](https://www.youtube.com/watch?v=6TOojA72uo4) Summary: CPU: 45 min , GPU: 55 sec, TPU: 15sec
+
+**Google Colab VS AWS SageMaker Studio Lab** 
 
 [Video](https://www.youtube.com/watch?v=qFH1MV-yg04&t=350s)
