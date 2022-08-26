@@ -78,3 +78,6 @@ Module|Content
 
 [Part 3](https://www.youtube.com/watch?v=BGKumht1qLA)
 
+**Google Colab VS AWS SageMaker Studio Lab**
+
+[Video](https://www.youtube.com/watch?v=qFH1MV-yg04&t=350s)
