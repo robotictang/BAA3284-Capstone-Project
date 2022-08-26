@@ -13,7 +13,7 @@ Deep learning is a group of exciting new technologies for neural networks. Throu
 
 # Textbook
 
-The original author of this code was contributed by Jeff Heaton and the code is then adapted to be used on this course with Apache License Version 2.0. This same material is also available in [book format](https://www.heatonresearch.com/book/applications-deep-neural-networks-keras.html). The course textbook is “Applications of Deep Neural networks with Keras“, ISBN 9798416344269.
+The original author of this code was contributed by Jeff Heaton and the code is then adapted to be used in this course with Apache License Version 2.0. This same material is also available in [book format](https://www.heatonresearch.com/book/applications-deep-neural-networks-keras.html). The course textbook is “Applications of Deep Neural networks with Keras“, ISBN 9798416344269.
 
 If you would like to cite the material from this course/book, please use the following BibTex citation:
 
