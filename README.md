@@ -85,3 +85,8 @@ Module|Content
 **Google Colab VS AWS SageMaker Studio Lab** 
 
 [Video](https://www.youtube.com/watch?v=qFH1MV-yg04&t=350s)
+
+**Tips to Use Colab**
+
+[Video](https://www.youtube.com/watch?v=qWVeJ7Esx2U)
+
