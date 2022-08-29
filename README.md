@@ -32,7 +32,7 @@ If you would like to cite the material from this course/book, please use the fol
 
 1. Explain how neural networks (deep and otherwise) compare to other machine learning models.
 2. Determine when a deep neural network would be a good choice for a particular problem.
-3. Demonstrate your understanding of the material through a final project uploaded to GitHub.
+3. Demonstrate your understanding of the material through a capstone project uploaded to GitHub.
 
 Module|Content
 ---|---
