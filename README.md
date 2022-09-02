@@ -92,3 +92,6 @@ Module|Content
 
 [Video](https://www.youtube.com/watch?v=qWVeJ7Esx2U)
 
+**Jupyter Notebook Top 12 Extensions**
+
+[URL](https://www.tabnine.com/blog/top-12-jupyter-notebook-extensions/)
